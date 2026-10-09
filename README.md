@@ -4,4 +4,4 @@
 
 Делал на основании: https://cleaningtemplate.webflow.io/
 
-Проект: https://htmlpreview.github.io/?https://github.com/DAcKeyy/Cleaning-X/blob/Major/index.html
+Проект: https://htmlpreview.github.io/?https://github.com/dovmantov/Cleaning-X/blob/Major/index.html
